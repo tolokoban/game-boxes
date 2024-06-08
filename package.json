@@ -1,0 +1,8 @@
+{
+    "devDependencies": {
+        "ts-node": "^10.9.2"
+    },
+    "scripts": {
+        "test": "ts-node lab/test.ts"
+    }
+}
